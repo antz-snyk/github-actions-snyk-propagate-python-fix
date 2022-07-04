@@ -24,7 +24,7 @@
     "@actions/core": "^1.2.6",
     "@actions/github": "^2.1.1",
     "@octokit/rest": "^16.43.1",
-    "axios": "^0.21.3",
+    "axios": "^0.27.2",
     "what-the-diff": "^0.6.0"
   },
   "devDependencies": {
